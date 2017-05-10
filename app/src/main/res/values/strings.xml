@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Ashajawa</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <!--Button String.-->
+    <string name="search_btn_str_eng">Search Ticket</string>
+    <string name="search_head_str_eng">Search &amp; Buy Launch Ticket</string>
+    <string name="select_departure_eng">Select Departure Area</string>
+    <string name="select_arrival_eng">Select Arrival Area</string>
+    <string name="select_from_eng">From:</string>
+    <string name="select_to_eng">To:</string>
+    <string name="call_us">Call Us</string>
+    <string name="availabel_route_eng">Avaiable Launce Route</string>
+
+    <!--Menu item String-->
+    <string name="all_route">Available Launce Route</string>
+    <string name="pay_method">Payment Method</string>
+    <string name="about_us">About Us</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="develop">Developer Details</string>
+    <string name="communication">Communicate</string>
+    <string name="title_activity_checkout_details">checkout_details</string>
+
+
+</resources>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFFFFF</color>
+    <color name="ivory">#FFFFF0</color>
+    <color name="honeydew">#F0FFF0</color>
+    <color name="aliceblue">#F0F8FF</color>
+    <color name="khaki">#F0E68C</color>
+    <color name="lightcoral">#F08080</color>
+    <color name="palegoldenrod">#EEE8AA</color>
+    <color name="violet">#EE82EE</color>
+    <color name="darksalmon">#E9967A</color>
+    <color name="lavender">#E6E6FA</color>
+    <color name="lightcyan">#E0FFFF</color>
+    <color name="burlywood">#DEB887</color>
+    <color name="background">#cccccc</color>
+
+
+</resources>
